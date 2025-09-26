@@ -79,7 +79,7 @@ html {
   display: flex;
   flex-direction: column;
   max-width: 711px;
-  gap: 16px;
+  gap: 10px;
   padding-top: 78px;
 }
 
@@ -222,6 +222,10 @@ html {
   font-size: 75px;
   line-height: 94%;
   text-transform: uppercase;
+}
+
+.content__accent {
+  color: #545050;
 }
 
 .content__list-container {
